@@ -54,4 +54,4 @@ def split(dist, total, splits):
         
 
 print(split(count_names(hs_atts), len(hs_atts), 5))
-print(print(split(count_names(ms_atts), len(ms_atts), 2)))
+print(split(count_names(ms_atts), len(ms_atts), 2))
